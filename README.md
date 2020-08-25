@@ -21,5 +21,5 @@ Here's a little information about my computer-self.
  -- Honestly though, I've realized that anyone can go google something. I strive to be good without outside help -- I figure that's the best way to evolve my problem solving muscles.. Hey! One day I might even be able to flex them a little :) 
  
  Well, that's my computer self, hope you enjoyed the read. 
- - Cain
+ -- Cain
  
